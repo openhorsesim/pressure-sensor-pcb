@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Arduino")(type "KiCad")(uri "/home/paul/Projects/horse-simulator/pressure-sensor-pcb/arduino-kicad-library/Arduino.pretty")(options "")(descr ""))
+)
